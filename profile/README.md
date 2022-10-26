@@ -1,0 +1,1 @@
+![Heltec Wi-Fi LoRa 32 (v2)](https://raw.githubusercontent.com/agh-iot/.github/main/profile/pinout.png)
